@@ -9,7 +9,7 @@ import { createAnecdote } from '../reducers/anecdoteReducer'
     const content = event.target.anecdote.value;
     console.log('create anecdote', content)
     event.target.anecdote.value = ''
-    dispatch(createAnecdote(content))
+    dispatch(createAnecdote({content}))
     }
 
   return (

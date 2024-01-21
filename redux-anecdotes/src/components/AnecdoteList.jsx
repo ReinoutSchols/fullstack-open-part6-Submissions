@@ -18,7 +18,7 @@ import { voteAnecdote } from '../reducers/anecdoteReducer'
     const sortedAnecdotes = [...displayedAnecdotes].sort((a, b) => b.votes - a.votes)
     const vote = (id) => {
       console.log('vote', id)
-      dispatch(voteAnecdote(id))
+      dispatch(voteAnecdote({id}))
     }
 
   return (

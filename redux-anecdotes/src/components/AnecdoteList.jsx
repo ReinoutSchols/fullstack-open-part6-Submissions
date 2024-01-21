@@ -6,7 +6,7 @@ import { voteAnecdote } from '../reducers/anecdoteReducer'
 
     const dispatch = useDispatch()
     const anecdotes = useSelector(state => state.anecdotes)
-    const filterValue = useSelector(state => state.filter.value)
+    const filterValue = useSelector(state => state.filter)
     console.log('anecdotes rendered from store:', anecdotes)
     console.log('filtervalue:', filterValue)
     

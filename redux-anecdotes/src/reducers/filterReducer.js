@@ -1,19 +1,14 @@
 /* eslint-disable no-case-declarations */
+import { createSlice } from '@reduxjs/toolkit'
 
+const filterSlice = createSlice({
+  name:'filter',
+  initialState:"",
+  reducers: {
+    createFilter(state, action) {
+      return action.payload.value
+  }}
+    })
 
-const filterReducer = (state = [{ value: "" }], action) => {
-  switch (action.type) {
-    case 'FILTER_BY_ANECDOTE':
-      let value = action.payload.value
-      return { ...state, value }
-    default:
-      return state
-  }
-};
-
-export const filterByAnecdote = payload => ({
-  type: 'FILTER_BY_ANECDOTE',
-  payload: payload
-})
-
-export default filterReducer
+export const { createFilter } = filterSlice.actions
+export default filterSlice.reducer

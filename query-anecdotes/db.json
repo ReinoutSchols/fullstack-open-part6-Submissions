@@ -3,12 +3,12 @@
     {
       "content": "If it hurts, do it more often",
       "id": "47145",
-      "votes": 0
+      "votes": 23
     },
     {
       "content": "Adding manpower to a late software project makes it later!",
       "id": "21149",
-      "votes": 0
+      "votes": 2
     },
     {
       "content": "The first 90 percent of the code accounts for the first 90 percent of the development time...The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
@@ -42,7 +42,7 @@
     },
     {
       "content": "heyeeee",
-      "votes": 0,
+      "votes": 1,
       "id": "r2R3uQw"
     },
     {
@@ -54,6 +54,31 @@
       "content": "sheehs",
       "votes": 0,
       "id": "7pUPP13"
+    },
+    {
+      "content": "this is a test",
+      "votes": 3,
+      "id": "3_L8uiX"
+    },
+    {
+      "content": "this is another test",
+      "votes": 3,
+      "id": "bxdPcLC"
+    },
+    {
+      "content": "creating a new test blog works to invalidate",
+      "votes": 0,
+      "id": "pRyDJiF"
+    },
+    {
+      "content": "reformatted the code",
+      "votes": 0,
+      "id": "QSVE85l"
+    },
+    {
+      "content": "fixed the voting not updating by implementing an await in the put request",
+      "votes": 0,
+      "id": "5J_NyGt"
     }
   ]
 }

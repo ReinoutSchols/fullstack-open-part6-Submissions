@@ -9,6 +9,8 @@ const notificationReducer = (state, action) => {
         return { ...state, message: `Anecdote '${action.payload}' created`, type: 'CREATE' }
       case "RESET":
         return { ...state, message: "", type: 'RESET' }
+      case "ERROR":
+        return { ...state, message: action.payload, type: 'ERROR' }
       default:
           return state
     }

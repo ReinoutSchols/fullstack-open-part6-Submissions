@@ -13,7 +13,7 @@ const Notification = () => {
   }
   const notificationElements = () => {
     console.log(`message and type before if block: ${notification.type} ${notification.message}`)
-    if (notification.type === 'CREATE' || notification.type === 'VOTE') {
+    if (notification.type === 'CREATE' || notification.type === 'VOTE' || notification.type === 'ERROR') {
       console.log(`message in if block: ${notification.message}`)
   
       setTimeout(() => {

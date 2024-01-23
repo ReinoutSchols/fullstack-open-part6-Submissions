@@ -3,14 +3,13 @@ import Notification from './components/Notification'
 import AnecdoteList from './components/AnecdotesList'
 
 const App = () => {
-
   return (
-    <div>
-      <h3>Anecdote app</h3>
-      <Notification />
-      <AnecdoteForm />
-      <AnecdoteList />
-    </div>
+      <div>
+        <h3>Anecdote app</h3>
+        <Notification />
+        <AnecdoteForm />
+        <AnecdoteList />
+      </div>
   )
 }
 

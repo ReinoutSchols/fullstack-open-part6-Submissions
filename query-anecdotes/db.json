@@ -3,17 +3,17 @@
     {
       "content": "If it hurts, do it more often",
       "id": "47145",
-      "votes": 23
+      "votes": 51
     },
     {
       "content": "Adding manpower to a late software project makes it later!",
       "id": "21149",
-      "votes": 2
+      "votes": 4
     },
     {
       "content": "The first 90 percent of the code accounts for the first 90 percent of the development time...The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
       "id": "69581",
-      "votes": 0
+      "votes": 3
     },
     {
       "content": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
@@ -23,26 +23,26 @@
     {
       "content": "Premature optimization is the root of all evil.",
       "id": "25170",
-      "votes": 0
+      "votes": 3
     },
     {
       "content": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
       "id": "98312",
-      "votes": 0
+      "votes": 4
     },
     {
       "content": "hello baby",
-      "votes": 0,
+      "votes": 1,
       "id": "GZ9wse6"
     },
     {
       "content": "hello baby",
-      "votes": 0,
+      "votes": 2,
       "id": "n81DdM8"
     },
     {
       "content": "heyeeee",
-      "votes": 1,
+      "votes": 2,
       "id": "r2R3uQw"
     },
     {
@@ -79,6 +79,61 @@
       "content": "fixed the voting not updating by implementing an await in the put request",
       "votes": 0,
       "id": "5J_NyGt"
+    },
+    {
+      "content": "hello",
+      "votes": 0,
+      "id": "MsDKuh4"
+    },
+    {
+      "content": "tttttttt",
+      "votes": 0,
+      "id": "yvKWarO"
+    },
+    {
+      "content": "tttttt",
+      "votes": 0,
+      "id": "esjqxwK"
+    },
+    {
+      "content": "big test",
+      "votes": 0,
+      "id": "X1G8tUD"
+    },
+    {
+      "content": "tttttt",
+      "votes": 1,
+      "id": "0HCB3ak"
+    },
+    {
+      "content": "hellooo",
+      "votes": 1,
+      "id": "xBxxA2s"
+    },
+    {
+      "content": "test creation",
+      "votes": 1,
+      "id": "RLTAPLX"
+    },
+    {
+      "content": "eeeeee",
+      "votes": 0,
+      "id": "AKwYy7G"
+    },
+    {
+      "content": "aaaaaa",
+      "votes": 4,
+      "id": "cGXPfGf"
+    },
+    {
+      "content": "big test",
+      "votes": 1,
+      "id": "TrROD0f"
+    },
+    {
+      "content": "damn papi",
+      "votes": 0,
+      "id": "tT3jZgi"
     }
   ]
 }
